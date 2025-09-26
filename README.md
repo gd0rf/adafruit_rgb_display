@@ -1,4 +1,4 @@
-# Game Status Display with Steam and Xbox Integration
+# Game Status Display with Steam Integration
 
 This Python script continuously checks the current game being played on Steam and Xbox, and updates an LED display with the corresponding game image. The image associated with the current game is retrieved from a JSON file, and if no game is found, a default image is used. The script also manages the command to display the image on an LED matrix.
 
